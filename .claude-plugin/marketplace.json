@@ -9,7 +9,7 @@
       "name": "ceramic-search",
       "source": "./plugins/search",
       "description": "High quality web search for AI agents using Ceramic",
-      "category": "Productivity",
+      "category": "productivity",
       "author": {
         "name": "Ceramic AI"
       }
