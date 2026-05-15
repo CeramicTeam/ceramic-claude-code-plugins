@@ -13,7 +13,7 @@ Claude Code plugins for [Ceramic AI](https://docs.ceramic.ai). Install once, use
 ### Step 1 — Register the marketplace
 
 ```bash
-claude plugin marketplace add CeramicTeam/ceramic-claude-code-plugin
+claude plugin marketplace add CeramicTeam/ceramic-claude-code-plugins
 ```
 
 This clones the repo and makes the plugins discoverable in Claude Code. The plugins are not installed yet.
