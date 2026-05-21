@@ -1,6 +1,6 @@
 # Ceramic Claude Code Plugins
 
-Claude Code plugins for [Ceramic AI](https://docs.ceramic.ai). Install once, use across every project.
+Claude Code plugins for [Ceramic AI](https://docs.ceramic.ai).
 
 ## Plugins
 
