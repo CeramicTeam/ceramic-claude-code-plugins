@@ -1,5 +1,15 @@
 # Ceramic Claude Code Plugins
 
+> [!IMPORTANT]
+> This plugin has moved to [CeramicTeam/agent-skills](https://github.com/CeramicTeam/agent-skills). New installs should use that repo. See the [Agent Skill docs](https://docs.ceramic.ai/api/search/agent-skill) for all install options.
+>
+> Already installed from this repo? Point the `ceramic-ai` marketplace to the new repo and update the plugin, then restart Claude Code:
+>
+> ```bash
+> claude plugin marketplace add CeramicTeam/agent-skills
+> claude plugin update ceramic-search@ceramic-ai
+> ```
+
 Claude Code plugins for [Ceramic AI](https://docs.ceramic.ai).
 
 ## Plugins
